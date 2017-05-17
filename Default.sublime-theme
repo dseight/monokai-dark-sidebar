@@ -1015,49 +1015,18 @@
     {
         "class": "icon_file_type",
         // layer0.texture is filled in by code with the relevant icon name
-        "layer0.opacity": 1.0,
-        "content_margin": [8, 8]
+        "content_margin": [0, 0]
     },
     {
         "class": "icon_folder",
-        "layer0.texture": "Theme - Default/icons/folder.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [8, 8]
-    },
-    {
-        "class": "icon_folder",
-        "parents":
-        [
-            { "class": "tree_row", "attributes": ["expanded"] }
-        ],
-        "layer0.texture": "Theme - Default/icons/folder_open.png",
+        "content_margin": [0, 0]
     },
     {
         "class": "icon_folder_loading",
-        "layer0.texture":
-        {
-            "keyframes":
-            [
-                "Theme - Default/icons/spinner7.png",
-                "Theme - Default/icons/spinner6.png",
-                "Theme - Default/icons/spinner5.png",
-                "Theme - Default/icons/spinner4.png",
-                "Theme - Default/icons/spinner3.png",
-                "Theme - Default/icons/spinner2.png",
-                "Theme - Default/icons/spinner1.png",
-                "Theme - Default/icons/spinner.png",
-            ],
-            "loop": true,
-            "frame_time": 0.075,
-        },
-
-        "layer0.opacity": 1.0,
-        "content_margin": [8, 8]
+        "content_margin": [0, 0]
     },
     {
         "class": "icon_folder_dup",
-        "layer0.texture": "Theme - Default/icons/folder_dup.png",
-        "layer0.opacity": 1.0,
-        "content_margin": [8, 8]
+        "content_margin": [0, 0]
     },
 ]

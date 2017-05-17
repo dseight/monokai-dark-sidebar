@@ -1,9 +1,9 @@
-# Monokai with dark sidebar
+# Monokai with dark sidebar (no icons)
 
 Original theme is taken from the Sublime Text 3 build 3126.
 
 Modifications:
-- sidebar icons color inverted
+- sidebar icons removed
 - sidebar color changed to the Monokai bg color
 
 ## Installation
